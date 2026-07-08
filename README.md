@@ -1,4 +1,4 @@
-# NLP-Sentiment_Analysis_with_Amazon_Kosmos_Dataset
+#  NLP-Sentiment_Analysis_with_Amazon_Kosmos_Dataset
 
 ![image](https://github.com/Vedatgul/NLP-Sentiment_Analysis_with_Amazon_Kosmos_Dataset/assets/124357663/d970283a-8826-4c22-b824-516def847b15)
 
